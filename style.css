@@ -1,0 +1,118 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+       
+}
+.mission{
+    color:rgb(3, 233, 250);
+}
+.top-side{
+    display:flex;
+    
+}
+.heading1{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Yeseva One', cursive;
+    font-size:50px;
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(3, 233, 250),rgb(25, 0, 255));
+    border-image-slice: 1;
+    margin-top: 15%;
+    padding-left: 10px;
+}
+.top-div{
+    width:50%;
+    padding-left: 10%;
+    padding-right: 10%
+}
+.top-div img{
+    width:80%
+}
+.top-div p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.click{
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(3, 206, 206);
+    color:rgb(255, 255, 255);
+    padding: 10px 45px;
+    border-radius: 10px;
+    
+}
+.small{
+    display:block;
+    font-size: 16px;
+    margin-top: 50px;
+    
+}
+.my-mission{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+.middle{
+    display: flex;
+    padding-left: 9%;
+    
+    
+}
+.middle{
+    margin-bottom: 150px;
+}
+.middle-div1{
+    background-color: rgb(235, 190, 190);
+    width:350px;
+    height:360px;
+    margin:20px;
+    padding:10px;
+    border-radius: 15px;
+}
+.middle-div2{
+    background-color: rgb(190, 235, 190);
+    width:350px;
+    height:360px;
+    margin:20px;
+    padding:10px;
+    border-radius: 15px;
+}
+.middle-div3{
+    background-color: rgb(190, 222, 235);
+    width:350px;
+    height:360px;
+    margin:20px;
+    padding:10px;
+    border-radius: 15px;
+}
+.mid-img{
+    width:140px;
+    height: 140px;
+    
+}
+.co-work{
+    display:flex;
+    padding-left: 10%;
+}
+.co-work-div{
+    width:50%;
+}
+.co-work-div img{
+    width:80%;
+    padding-left: 15%;
+    margin:0
+}
+.co-work-div{
+    padding-right: 10%;
+}
+.heading{
+    font-size: 40px;
+}
+.project{
+    margin-top:150px;
+}
+
+
