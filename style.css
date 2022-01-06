@@ -57,7 +57,7 @@ body{
 }
 .middle{
     display: flex;
-    padding-left: 9%;
+    padding-left: 10%;
     
     
 }
@@ -113,6 +113,31 @@ body{
 }
 .project{
     margin-top:150px;
+}
+.opinion{
+    background-color: rgb(202, 230, 220);
+    height:250px;
+    text-align: center;
+    padding:5px;
+    margin-top: 100px;
+}
+.new-mission{
+    color:rgb(0, 119, 255);
+}
+.opinion form{
+    text-align: left;
+    padding-left: 22%;
+    
+}
+.foot{
+    border:1px solid white;
+    margin:0;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+.foot p{
+    color:rgb(0, 143, 129);
 }
 
 
